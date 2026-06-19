@@ -1,6 +1,6 @@
-# Customer_Churn_Prediction-using-ML
+# Customer Churn Prediction & Retention Analytics
 Data Analyst &amp; ML Enthusiast | Python • Pandas • Power BI • SQL • Machine Learning | Exploring data-driven decision making and predictive analytics
-# 📘 Customer Churn Prediction using Machine Learning
+# 📘 Customer Churn Prediction & Retention Analytics
 
 ### 👨‍💻 Author: [Ayush Kumar Srivas](https://github.com/AyushKumarSrivas)
 ### 🗂️ Repository: Customer_Churn_Prediction
