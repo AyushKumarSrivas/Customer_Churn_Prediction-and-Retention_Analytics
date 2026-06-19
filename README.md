@@ -3,7 +3,7 @@ Data Analyst &amp; ML Enthusiast | Python • Pandas • Power BI • SQL • Ma
 # 📘 Customer Churn Prediction & Retention Analytics
 
 ### 👨‍💻 Author: [Ayush Kumar Srivas](https://github.com/AyushKumarSrivas)
-### 🗂️ Repository: Customer_Churn_Prediction
+### 🗂️ Repository: Customer Churn Prediction & Retention Analytics
 
 ---
 
